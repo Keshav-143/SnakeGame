@@ -8,3 +8,13 @@
 
 7)git clone reponame     -> To clone the repositories.
 8)git pull origin master   -> To download the git file.
+
+9)git branch branchName  -> For creating branch.
+10) git checkout branchName   -> To move one branch to another branch.
+
+11)a. git log    -> For checking all the activity of commit.
+11)b. git log -2   -> Showing last two commit.
+12)git log --oneline   -> for showing all commit line by line.
+13)a. git log --auther="author name"    ->seeing commit of particular author.
+13)b. git log -i --author="auther name withot case sensitove"
+14)git log --grep="text"   -> For searching particular text in commit.
