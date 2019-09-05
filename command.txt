@@ -1,0 +1,10 @@
+1)git init     -> to initialize.
+2)a. git add      -> for adding file.
+2)b. git add -A   -> Adding all file from folder.
+3)git status      -> To check status even all file added or not ?
+4)git commit -m "some message"   ->This comman is use to add comment.
+5)git remote add origin reponame(means repositories url)  ->It is use to add file to particular repositories.
+6)git push origine mater   -> It is use to push file to git.
+
+7)git clone reponame     -> To clone the repositories.
+8)git pull origin master   -> To download the git file.
